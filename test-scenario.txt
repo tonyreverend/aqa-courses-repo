@@ -1,3 +1,5 @@
 1. Login
 2. Open Profile
 3. Check Username
+4. Check User Profile Image
+5. Logout
